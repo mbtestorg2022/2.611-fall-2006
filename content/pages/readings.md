@@ -20,16 +20,221 @@ Reference Texts for 2.611 ([PDF]({{< baseurl >}}/resources/references))
 Reading Assignments by Lecture
 ------------------------------
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Resistance and propulsion (propulsors) |  {{< br >}}{{< br >}} Lewis: Chapter 6, sections 1-4 (skim sections 2.4, 2.5, and 2.6), and pp. 171-183. {{< br >}}{{< br >}} Woud and Stapersma: Sections 3.4, 3.6 (Resistance and propulsion), 6.6 (Propellers), and Chapter 10.0 (Propellers cavitation). {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Cavitation {{< br >}}{{< br >}} Waterjet notes {{< br >}}{{< br >}}  | Lewis: pp. 181-183. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/04prevent_cav)) (Courtesy of the Society of Naval Architects and Marine Engineers. Used with permission.) |
-| 5 | First law |  {{< br >}}{{< br >}} Woud and Stapersma: Chapter 2, section 2.2 (pp. 10-19). {{< br >}}{{< br >}} More detailed material on thermo is available in Van Wylen and Sonntag, chapters 5 through 8. {{< br >}}{{< br >}}  |
-| 9 | Propeller lifting line theory (Dr. Rich Kimball) | Woud and Stapersma: Chapters 4 through 6.2. |
-| 12 | Combustion |  {{< br >}}{{< br >}} Woud and Stapersma: Section 2.2.3, pp. 19-22. {{< br >}}{{< br >}} Also look over the [lecture notes]({{< baseurl >}}/pages/lecture-notes) and handouts. {{< br >}}{{< br >}}  |
-| 14 | Basic dual cycle diesel notes |  {{< br >}}{{< br >}} Ship Power Systems 2006. A Wartsila brochure. {{< br >}}{{< br >}} Woud and Stapersma: Chapter 7. {{< br >}}{{< br >}}  |
-| 16 | Diesel (cont.) or catch-up |  {{< br >}}{{< br >}} Bleby, Mike. "Exhaust Emissions Reduction New Technology for Diesel Engines." Presentation, ASNE Advanced Naval Propulsion Symposium, 2004. {{< br >}}{{< br >}} Aboujaoude, Frank. "Advanced Diesel Engine Technology Applied to the PA6B Engine." Presentation, ASNE Advanced Naval Propulsion Symposium, 2004. {{< br >}}{{< br >}}  |
-| 17 |  {{< br >}}{{< br >}} Polytropic efficiency {{< br >}}{{< br >}} Brayton cycle summary 2005 {{< br >}}{{< br >}}  | Woud and Stapersma: Chapter 8. |
-| 20 | Motors and generators overview | Woud and Stapersma: Section 2.3 (Basic electrical principles), section 5.3 (Electrical concepts), and chapter 9 (Electrical components). |
-| 24 |  {{< br >}}{{< br >}} Excerpt from standard handbook off machine design {{< br >}}{{< br >}} Gear geometry {{< br >}}{{< br >}} Helical gear geometry {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Shigley, Joseph E., Charles R. Mischke, and Thomas H. Brown. _Standard Handbook of Machine Design_. 3rd ed. New York, NY: McGraw-Hill, 2004, chapters 9 and 10. ISBN: 9780071441643. {{< br >}}{{< br >}} Woud and Stapersma: Sections 3.4.3, 5.2.3, 5.2.4, 6.4, 6.4.3, 11.3.3, and 11.4.6. {{< br >}}{{< br >}}  |
-| 26 |  {{< br >}}{{< br >}} Review, catch-up {{< br >}}{{< br >}} Air independent propulsion {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Woud and Stapersma: Section 6.2.4. {{< br >}}{{< br >}} Air-Independent Propulsion: AIP Technology Creates a New Undersea Threat ([PDF]({{< baseurl >}}/resources/26in_usw_art_aip)) (Courtesy of the U.S. Navy.) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Resistance and propulsion (propulsors)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis: Chapter 6, sections 1-4 (skim sections 2.4, 2.5, and 2.6), and pp. 171-183.
+
+Woud and Stapersma: Sections 3.4, 3.6 (Resistance and propulsion), 6.6 (Propellers), and Chapter 10.0 (Propellers cavitation).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cavitation
+
+Waterjet notes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis: pp. 181-183. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/04prevent_cav)) (Courtesy of the Society of Naval Architects and Marine Engineers. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+First law
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Woud and Stapersma: Chapter 2, section 2.2 (pp. 10-19).
+
+More detailed material on thermo is available in Van Wylen and Sonntag, chapters 5 through 8.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Propeller lifting line theory (Dr. Rich Kimball)
+{{< tdclose >}}
+{{< tdopen >}}
+Woud and Stapersma: Chapters 4 through 6.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Combustion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Woud and Stapersma: Section 2.2.3, pp. 19-22.
+
+Also look over the [lecture notes]({{< baseurl >}}/pages/lecture-notes) and handouts.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Basic dual cycle diesel notes
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ship Power Systems 2006. A Wartsila brochure.
+
+Woud and Stapersma: Chapter 7.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Diesel (cont.) or catch-up
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bleby, Mike. "Exhaust Emissions Reduction New Technology for Diesel Engines." Presentation, ASNE Advanced Naval Propulsion Symposium, 2004.
+
+Aboujaoude, Frank. "Advanced Diesel Engine Technology Applied to the PA6B Engine." Presentation, ASNE Advanced Naval Propulsion Symposium, 2004.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Polytropic efficiency
+
+Brayton cycle summary 2005
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Woud and Stapersma: Chapter 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Motors and generators overview
+{{< tdclose >}}
+{{< tdopen >}}
+Woud and Stapersma: Section 2.3 (Basic electrical principles), section 5.3 (Electrical concepts), and chapter 9 (Electrical components).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Excerpt from standard handbook off machine design
+
+Gear geometry
+
+Helical gear geometry
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shigley, Joseph E., Charles R. Mischke, and Thomas H. Brown. _Standard Handbook of Machine Design_. 3rd ed. New York, NY: McGraw-Hill, 2004, chapters 9 and 10. ISBN: 9780071441643.
+
+Woud and Stapersma: Sections 3.4.3, 5.2.3, 5.2.4, 6.4, 6.4.3, 11.3.3, and 11.4.6.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review, catch-up
+
+Air independent propulsion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Woud and Stapersma: Section 6.2.4.
+
+Air-Independent Propulsion: AIP Technology Creates a New Undersea Threat ([PDF]({{< baseurl >}}/resources/26in_usw_art_aip)) (Courtesy of the U.S. Navy.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

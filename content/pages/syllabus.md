@@ -77,12 +77,57 @@ Relationship to Program Learning Outcome
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quiz 1 | 25% |
-| Quiz 2 | 25% |
-| Design project | 40% |
-| Homework | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -90,32 +135,417 @@ Grading Policy
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Resistance and propulsion (propulsors) | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Actuator disk {{< br >}}{{< br >}} Propeller testing - B series {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Design using Kt (Kq) curves {{< br >}}{{< br >}} Detail design {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Cavitation {{< br >}}{{< br >}} Waterjet notes {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | First law | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Second law {{< br >}}{{< br >}} Availability {{< br >}}{{< br >}}  | Assignment 1 due |
-| 7 | Propeller lifting line theory (Dr. Rich Kimball) | &nbsp; |
-| 8 | Propeller lifting line theory (Dr. Rich Kimball) (cont.) | &nbsp; |
-| 9 | Propeller lifting line theory (Dr. Rich Kimball) (cont.) | Assignment 2 due |
-| 10 |  {{< br >}}{{< br >}} Water properties (Prof. Doug Carmichael) {{< br >}}{{< br >}} Rankine cycle (Prof. Doug Carmichael) {{< br >}}{{< br >}}  | Assignment 3 due one day before Lec #10 |
-| 11 |  {{< br >}}{{< br >}} Rankine cycle vs. pressure and temperature (Prof. Doug Carmichael) {{< br >}}{{< br >}} Practical Rankine cycle (Prof. Doug Carmichael) {{< br >}}{{< br >}} Rankine cycle with regeneration {{< br >}}{{< br >}} Rankine cycle vs. pressure with reheat {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Combustion | &nbsp; |
-| &nbsp; | Quiz 1 | &nbsp; |
-| 13 | Relationships for gases | &nbsp; |
-| 14 | Basic dual cycle diesel notes | &nbsp; |
-| 15 | Diesel analysis (cont.) | &nbsp; |
-| 16 | Diesel (cont.) or catch-up | Assignment 4 due |
-| 17 |  {{< br >}}{{< br >}} Polytropic efficiency {{< br >}}{{< br >}} Brayton cycle summary 2005 {{< br >}}{{< br >}}  | &nbsp; |
-| 18 |  {{< br >}}{{< br >}} Brayton cycle - irreversible examples {{< br >}}{{< br >}} Open Brayton cycle {{< br >}}{{< br >}} Creep {{< br >}}{{< br >}}  | &nbsp; |
-| 19 | Electrical theory overview | Assignment 5 due |
-| 20 | Motors and generators overview | &nbsp; |
-| 21 | Electric propulsion presentation, guest lecturer Prof. Harbour | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} Reliability and availability {{< br >}}{{< br >}} Repairable systems supplement {{< br >}}{{< br >}}  | &nbsp; |
-| 23 | Reduction gears notes | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Gear geometry {{< br >}}{{< br >}} Helical gear geometry {{< br >}}{{< br >}}  | Assignment 6 due |
-| 25 | Gear geometry | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} Review, catch-up {{< br >}}{{< br >}} Air independent propulsion {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Resistance and propulsion (propulsors)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Actuator disk
+
+Propeller testing - B series
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design using Kt (Kq) curves
+
+Detail design
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cavitation
+
+Waterjet notes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+First law
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Second law
+
+Availability
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Propeller lifting line theory (Dr. Rich Kimball)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Propeller lifting line theory (Dr. Rich Kimball) (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Propeller lifting line theory (Dr. Rich Kimball) (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Water properties (Prof. Doug Carmichael)
+
+Rankine cycle (Prof. Doug Carmichael)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due one day before Lec #10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rankine cycle vs. pressure and temperature (Prof. Doug Carmichael)
+
+Practical Rankine cycle (Prof. Doug Carmichael)
+
+Rankine cycle with regeneration
+
+Rankine cycle vs. pressure with reheat
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Combustion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Relationships for gases
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Basic dual cycle diesel notes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Diesel analysis (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Diesel (cont.) or catch-up
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Polytropic efficiency
+
+Brayton cycle summary 2005
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Brayton cycle - irreversible examples
+
+Open Brayton cycle
+
+Creep
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Electrical theory overview
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Motors and generators overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Electric propulsion presentation, guest lecturer Prof. Harbour
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reliability and availability
+
+Repairable systems supplement
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Reduction gears notes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gear geometry
+
+Helical gear geometry
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Gear geometry
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review, catch-up
+
+Air independent propulsion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
