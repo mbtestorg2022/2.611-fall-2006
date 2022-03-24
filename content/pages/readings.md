@@ -68,7 +68,7 @@ Waterjet notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis: pp. 181-183. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/04prevent_cav)) (Courtesy of the Society of Naval Architects and Marine Engineers. Used with permission.)
+Lewis: pp. 181-183. ([PDF]({{< baseurl >}}/resources/04prevent_cav)) (Courtesy of the Society of Naval Architects and Marine Engineers. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

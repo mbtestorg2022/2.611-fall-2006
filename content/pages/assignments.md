@@ -80,7 +80,7 @@ Problem set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 Problem set 5 ([PDF - 1.1 MB]({{< baseurl >}}/resources/ps5))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps5_soln))
+([PDF]({{< baseurl >}}/resources/ps5_soln))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -70,7 +70,7 @@ Detail design ([PDF]({{< baseurl >}}/resources/03prop_des_det))
 
 {{< tdclose >}}
 {{< tdopen >}}
-Propeller note book (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/03prop_note_book))
+Propeller note book ([PDF]({{< baseurl >}}/resources/03prop_note_book))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -372,7 +372,7 @@ Repairable systems supplement ([PDF]({{< baseurl >}}/resources/23working_repair)
 Reduction gears notes ([PDF]({{< baseurl >}}/resources/24gear_notes))
 {{< tdclose >}}
 {{< tdopen >}}
-Marine engineering (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/24mar_eng_fig_1)) (Courtesy of SNAME. Used with permission.)
+Marine engineering ([PDF]({{< baseurl >}}/resources/24mar_eng_fig_1)) (Courtesy of SNAME. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -412,7 +412,7 @@ A more completely designed gear video ([AVI 2 - 10.3 MB]({{< baseurl >}}/resourc
 
 {{< tdclose >}}
 {{< tdopen >}}
-Gear automation and design revised (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB]({{< baseurl >}}/resources/25gear_dsgn_anim))
+Gear automation and design revised ([PDF - 1.0 MB]({{< baseurl >}}/resources/25gear_dsgn_anim))
 {{< tdclose >}}
 
 {{< trclose >}}
