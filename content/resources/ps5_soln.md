@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set solutions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-611-marine-power-and-propulsion-fall-2006/7858afc972af2f8fe7141a154b5620f3_ps5_soln.pdf
 file_type: application/pdf
+parent_uid: f09c8d48-25f8-d4b6-3fb2-e899c89f81b0
 resourcetype: Document
 title: ps5_soln.pdf
 uid: 7858afc9-72af-2f8f-e714-1a154b5620f3
